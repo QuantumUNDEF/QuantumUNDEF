@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 ## 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/kaushendra-s-84bb7b32a/
--  Email: kaushedrasingh2006@gmail.com
+-  Email: kaushendrasingh2006@gmail.com
 
