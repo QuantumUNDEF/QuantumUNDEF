@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 # Hi, I'm Kaushendra Singh👋
+-->
 
 ## 📚 GeeksforGeeks DSA Course
-<!-- Update 35 to your real % -->
 ![DSA Progress](https://progress-bar.xyz/35/?title=GfG%20DSA%20Course&style=flat&width=300)
 
 ## 🧩 GeeksforGeeks Stats
-<!-- Modern JSON-based API + your username -->
-[![GfG Stats](https://gfg-stats.tashif.codes/card/kaushendras3g6)](https://www.geeksforgeeks.org/user/kaushendras3g6/)
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/kaushendras3g6)](https://www.geeksforgeeks.org/user/kaushendras3g6/)
