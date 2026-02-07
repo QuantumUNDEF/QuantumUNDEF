@@ -30,22 +30,30 @@ Here are some ideas to get you started:
 - Interests: Data Structures & Algorithms, OOP, Data Analysis
 
 ## 📚 Learning Progress
-![DSA Progress](https://progress-bar.xyz/35/?style=flat&width=300)
-![Java Progress](https://progress-bar.xyz/20/?style=flat&width=300&progress_color=ff9800)
-![C++ Progress](https://progress-bar.xyz/10/?style=flat&width=300&progress_color=2196f3)
+### C
+![C Progress](https://progress-bar.xyz/93/?style=flat&width=300&progress_color=#BAFFC9)
+### Python
+![Python](https://progress-bar.xyz/90/?style=flat&width=300&progress_color=#FFB3BA)
+### Data Abalysis
+![DA Progress](https://progress-bar.xyz/14/?style=flat&width=300&progress_color=#B3EBF2)
+### C++
+![C++ Progress](https://progress-bar.xyz/10/?style=flat&width=300&progress_color=#FFFFBA)
+### Java 
+![Java Progress](https://progress-bar.xyz/2/?style=flat&width=300&progress_color=#E0BBE4)
+
 
 ## 🧩 GeeksforGeeks Stats
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/kaushendras3g6)](https://www.geeksforgeeks.org/user/kaushendras3g6/)
 
-## 📂 Featured Projects
+<!--## 📂 Featured Projects
 [list 2–3 repos]
-
+-->
 ## 📊 GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumUNDEF&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumUNDEF&layout=compact&theme=tokyonight)
 ## 📫 Connect with me
 
-- LinkedIn: [](https://www.linkedin.com/in/kaushendra-s-84bb7b32a/)
-- Email: [](kaushedrasingh2006@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/kaushendra-s-84bb7b32a/
+-  Email: kaushedrasingh2006@gmail.com
 
