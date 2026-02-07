@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 [list 2–3 repos]
 -->
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumUNDEF&show_icons=true&theme=tokyonight)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuantumUNDEF&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumUNDEF&layout=compact&theme=tokyonight)
+![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumUNDEF&theme=tokyonight)
 ## 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/kaushendra-s-84bb7b32a/
