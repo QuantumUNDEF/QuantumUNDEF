@@ -30,16 +30,22 @@ Here are some ideas to get you started:
 - Interests: Data Structures & Algorithms, OOP, Data Analysis
 
 ## 📚 Learning Progress
-### C
-![C Progress](https://progress-bar.xyz/93/?style=flat&width=300&progress_color=#BAFFC9)
-### Python
-![Python](https://progress-bar.xyz/90/?style=flat&width=300&progress_color=#FFB3BA)
-### Data Abalysis
-![DA Progress](https://progress-bar.xyz/14/?style=flat&width=300&progress_color=#B3EBF2)
-### C++
-![C++ Progress](https://progress-bar.xyz/10/?style=flat&width=300&progress_color=#FFFFBA)
-### Java 
-![Java Progress](https://progress-bar.xyz/2/?style=flat&width=300&progress_color=#E0BBE4)
+
+### C  — Pastel Green (#BAFFC9)
+![C Progress](https://progress-bar.xyz/93/?style=flat&width=300&progress_color=baffc9)
+
+### Python — Pastel Pink (#FFB3BA)
+![Python](https://progress-bar.xyz/90/?style=flat&width=300&progress_color=ffb3ba)
+
+### Data Analysis — Pastel Blue (#B3EBF2)
+![DA Progress](https://progress-bar.xyz/14/?style=flat&width=300&progress_color=b3ebf2)
+
+### C++ — Pastel Yellow (#FFFFBA)
+![C++ Progress](https://progress-bar.xyz/10/?style=flat&width=300&progress_color=ffffba)
+
+### Java — Pastel Purple (#E0BBE4)
+![Java Progress](https://progress-bar.xyz/2/?style=flat&width=300&progress_color=e0bbe4)
+
 
 
 ## 🧩 GeeksforGeeks Stats
