@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm YOUR_NAME 👋
+
+### 📚 GeeksforGeeks DSA Course
+![DSA Progress](https://progress-bar.xyz/35/?title=GfG%20DSA%20Course&style=flat&width=300)
+
+### 🧩 GeeksforGeeks Coding Stats
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/YOUR_GFG_USERNAME)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/)
