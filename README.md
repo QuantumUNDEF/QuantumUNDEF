@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Python](https://progress-bar.xyz/90/?style=flat&width=300&progress_color=ffb3ba)
 
 ### Data Analysis
-![DA Progress](https://progress-bar.xyz/14/?style=flat&width=300&progress_color=b3ebf2)
+![DA Progress](https://progress-bar.xyz/15/?style=flat&width=300&progress_color=b3ebf2)
 
 ### C++ 
 ![C++ Progress](https://progress-bar.xyz/10/?style=flat&width=300&progress_color=ffffba)
