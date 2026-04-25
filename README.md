@@ -1,23 +1,4 @@
 
-<!--
-**QuantumUNDEF/QuantumUNDEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# Hi, I'm Kaushendra Singh👋
--->
-
-
-
 # Hi, I'm Kaushendra 👋
 
 - 🎓 B.Tech CSE student from India
@@ -28,24 +9,6 @@ Here are some ideas to get you started:
 - Languages: C, C++, Java, Python
 - Tools: Git, GitHub, VS Code
 - Interests: Data Structures & Algorithms, OOP, Data Analysis
-
-## 📚 Learning Progress
-
-### C 
-![C Progress](https://progress-bar.xyz/93/?style=flat&width=300&progress_color=baffc9)
-
-### Python
-![Python](https://progress-bar.xyz/90/?style=flat&width=300&progress_color=ffb3ba)
-
-### Data Analysis
-![DA Progress](https://progress-bar.xyz/15/?style=flat&width=300&progress_color=b3ebf2)
-
-### C++ 
-![C++ Progress](https://progress-bar.xyz/10/?style=flat&width=300&progress_color=ffffba)
-
-### Java 
-![Java Progress](https://progress-bar.xyz/2/?style=flat&width=300&progress_color=e0bbe4)
-
 
 
 ## 🧩 GeeksforGeeks Stats
